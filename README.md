@@ -28,48 +28,36 @@
 
 ## 🟣 About Me
 
-```java
-public class Manas {
+Hi! I'm **Manas S Dev**, a Computer Science & Engineering student at **TKM College of Engineering**.
 
-    String name = "Manas S Dev";
-    String role = "Computer Science Engineering Student";
+💻 I'm passionate about **Software Engineering, Full Stack Development, AI/ML, Backend Development, and Cloud Computing**.
 
-    String[] interests = {
-        "Software Engineering",
-        "Full Stack Development",
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Backend Development",
-        "Cloud & DevOps"
-    };
+🚀 I enjoy building practical projects that solve real-world problems and learning new technologies through projects, hackathons, and technical activities.
 
-    String[] technologies = {
-        "Java",
-        "Python",
-        "JavaScript",
-        "React",
-        "Node.js",
-        "FastAPI",
-        "PHP",
-        "PostgreSQL",
-        "MySQL"
-    };
+### What I'm interested in
 
-    String philosophy =
-        "Learn by building, improve through practice.";
+* 💻 Software Engineering
+* 🌐 Full Stack Development
+* ⚙️ Backend Development
+* 🤖 Artificial Intelligence & Machine Learning
+* 👁️ Computer Vision
+* 🗄️ Database Systems
+* ☁️ Cloud Computing
+* 📱 Mobile App Development
+* 🔐 Cybersecurity
 
-    String goal =
-        "Become a great software engineer.";
-}
-```
+### Currently learning
 
-I'm a **Computer Science & Engineering student at TKM College of Engineering**, passionate about software development and learning how technology can be used to solve real-world problems.
+* Data Structures & Algorithms
+* Advanced Git & GitHub
+* FastAPI & Backend Development
+* React Native
+* PostgreSQL
+* AWS
+* System Design
 
-I enjoy working on projects involving **web development, backend systems, databases, AI/ML, computer vision, and automation**.
+🎯 **My goal:** Become a great software engineer and build useful technology that solves real-world problems.
 
-I'm continuously improving my programming, problem-solving, system design, and development skills by building projects and participating in technical activities and hackathons.
-
----
 
 ## 🟣 Education
 
