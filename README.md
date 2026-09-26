@@ -1,26 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Your%20Name&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Manas%20S%20Dev&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Engineering%20Student%20%7C%20Software%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+scalable+systems+at+the+edge+of+AI;Turning+complex+problems+into+elegant+code;Open-source+contributor+%7C+Perpetual+learner" alt="Typing SVG" />
-
-<br/>
-
-![Academic Badge](https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
-![Location](https://img.shields.io/badge/Location-Your%20City%2C%20Country-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Building+projects+that+solve+real+problems;Learning+%7C+Building+%7C+Improving;Exploring+Software+Engineering+%26+AI" alt="Typing SVG" />
 
 <br/>
 
-<a href="https://your-portfolio.dev"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:manassdev28@gmail.com"><img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/manassdev28"><img src="https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white"/></a>
+![B.Tech](https://img.shields.io/badge/B.Tech-Computer%20Science%20%26%20Engineering-6D28D9?style=for-the-badge\&logo=googlescholar\&logoColor=white)
+![Location](https://img.shields.io/badge/Kerala-India-4C1D95?style=for-the-badge\&logo=googlemaps\&logoColor=white)
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=manassdev28&color=8B5CF6&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/manassdev28?style=for-the-badge&color=7C3AED&labelColor=1a1a2e)
-![Stars](https://img.shields.io/github/stars/manassdev28?style=for-the-badge&color=6D28D9&labelColor=1a1a2e)
+<a href="mailto:manassdev28@gmail.com">
+<img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/manassdev28">
+<img src="https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=manassdev28\&color=8B5CF6\&style=for-the-badge\&label=PROFILE+VIEWS)
 
 </div>
 
@@ -28,186 +28,254 @@
 
 ## 🟣 About Me
 
+```java
+public class Manas {
+
+    String name = "Manas S Dev";
+    String role = "Computer Science Engineering Student";
+
+    String[] interests = {
+        "Software Engineering",
+        "Full Stack Development",
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Backend Development",
+        "Cloud & DevOps"
+    };
+
+    String[] technologies = {
+        "Java",
+        "Python",
+        "JavaScript",
+        "React",
+        "Node.js",
+        "FastAPI",
+        "PHP",
+        "PostgreSQL",
+        "MySQL"
+    };
+
+    String philosophy =
+        "Learn by building, improve through practice.";
+
+    String goal =
+        "Become a great software engineer.";
+}
 ```
-const engineer = {
-  role: "Software Engineer & AI/ML Enthusiast",
-  focus: ["Full Stack Development", "Applied Machine Learning", "Distributed Systems"],
-  philosophy: "Ship fast, ship clean, ship with purpose",
-  mindset: "Product-first engineering with a bias toward measurable impact"
-};
-```
 
-I'm a software engineer specializing in building **production-grade, scalable systems** that sit at the intersection of clean architecture and applied AI. My work spans full-stack product development, machine learning pipelines, and cloud-native infrastructure — with a strong focus on **performance, reliability, and developer experience**.
+I'm a **Computer Science & Engineering student at TKM College of Engineering**, passionate about software development and learning how technology can be used to solve real-world problems.
 
-I approach engineering with a product mindset: every line of code should move a metric, solve a real user problem, or reduce system complexity.
+I enjoy working on projects involving **web development, backend systems, databases, AI/ML, computer vision, and automation**.
 
-**🎯 Open To:** Full-time Software Engineering roles · AI/ML Engineering · Open-source collaboration · Freelance/Contract work
+I'm continuously improving my programming, problem-solving, system design, and development skills by building projects and participating in technical activities and hackathons.
+
+---
+
+## 🟣 Education
+
+🎓 **B.Tech — Computer Science & Engineering**
+TKM College of Engineering
+
+🎓 **Diploma — Computer Engineering**
+EKNM Government Polytechnic College, Thrikaripur
 
 ---
 
 ## 🟣 Tech Stack
 
-**Languages**
-<p> <img src="https://skillicons.dev/icons?i=py,js,ts,java,cpp,go" /> </p>
+### Languages
 
-**Frontend**
-<p> <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css" /> </p>
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js,php,cpp,c" />
+</p>
 
-**Backend & Databases**
-<p> <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,postgres,mongodb,redis" /> </p>
+### Frontend
 
-**Cloud, DevOps & Tooling**
-<p> <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,terraform,linux,git,vscode" /> </p>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
 
----
+### Backend
 
-## 🟣 AI / ML Expertise
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,php" />
+</p>
 
-<div align="center">
+### Databases
 
-| Domain | Proficiency | Details |
-|---|---|---|
-| Machine Learning | ⭐⭐⭐⭐☆ | Scikit-learn, model evaluation, feature engineering pipelines |
-| Deep Learning | ⭐⭐⭐⭐☆ | PyTorch, TensorFlow, CNNs, transformer architectures |
-| NLP | ⭐⭐⭐⭐☆ | Text classification, embeddings, LLM fine-tuning & RAG systems |
-| MLOps | ⭐⭐⭐☆☆ | Model serving, CI/CD for ML, experiment tracking (MLflow) |
-| Computer Vision | ⭐⭐⭐☆☆ | OpenCV, image classification, object detection |
-| Generative AI | ⭐⭐⭐⭐☆ | Prompt engineering, LLM APIs, agentic workflows |
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb" />
+</p>
 
-</div>
+### Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,linux,docker,aws" />
+</p>
 
 ---
 
 ## 🟣 Featured Projects
 
-<details>
-<summary><b>🚀 Project One — Distributed Task Orchestration Platform</b></summary>
-<br/>
+### 🚀 VIORA — Vision-Based Intelligent Online Recognition for Attendance
 
-A horizontally-scalable task orchestration engine designed for high-throughput background job processing across microservices.
+A face-recognition-based attendance management system designed to automate student attendance.
 
-| Category | Details |
-|---|---|
-| **Stack** | Node.js, TypeScript, Redis, PostgreSQL, Docker |
-| **Scale** | Handles 50K+ jobs/day across distributed workers |
-| **Performance** | p99 latency under 120ms at peak load |
-| **Security** | JWT auth, rate limiting, encrypted job payloads |
-| **Impact** | Reduced job-processing overhead by 40% |
-| **Repository** | [github.com/manassdev28/project-one](https://github.com/manassdev28/project-one) |
+**Technologies:**
 
-Built to solve reliability bottlenecks in a legacy queue system, this platform introduces idempotent job execution, dead-letter queues, and real-time observability dashboards — enabling teams to ship background workflows with confidence.
+`Java` `JavaFX` `OpenCV` `JavaCV` `LBPH` `Haar Cascade` `SQLite`
 
-</details>
+**Key Features:**
 
-<details>
-<summary><b>🚀 Project Two — AI-Powered Analytics Dashboard</b></summary>
-<br/>
-
-A full-stack analytics platform using ML-driven anomaly detection to surface actionable business insights in real time.
-
-| Category | Details |
-|---|---|
-| **Stack** | React, FastAPI, PostgreSQL, scikit-learn, AWS |
-| **Scale** | Processes 1M+ data points daily |
-| **Performance** | Real-time inference under 200ms |
-| **Security** | OAuth2, role-based access control |
-| **Impact** | Cut manual reporting time by 60% |
-| **Repository** | [github.com/manassdev28/project-two](https://github.com/manassdev28/project-two) |
-
-Designed with a modular ML pipeline that retrains on a rolling window of data, this dashboard empowers non-technical stakeholders to catch anomalies before they become incidents.
-
-</details>
-
-<details>
-<summary><b>🚀 Project Three — Open Source Contribution Tracker</b></summary>
-<br/>
-
-A CLI + web tool that aggregates and visualizes open-source contribution history across multiple platforms.
-
-| Category | Details |
-|---|---|
-| **Stack** | Python, Next.js, GraphQL, MongoDB |
-| **Scale** | Tracks 10K+ repositories |
-| **Performance** | Sub-second query response via indexed caching |
-| **Security** | Scoped OAuth tokens, no data persistence of secrets |
-| **Impact** | 500+ active users, 200+ GitHub stars |
-| **Repository** | [github.com/manassdev28/project-three](https://github.com/manassdev28/project-three) |
-
-Started as a personal side project to track contribution streaks, it grew into a community tool adopted by open-source maintainers for portfolio building.
-
-</details>
+* Face detection using Haar Cascade
+* Face recognition using LBPH
+* Eye-based liveness checking
+* Student information management
+* Automated attendance recording
+* SQLite database integration
+* Excel automation
+* Email notification using Gmail SMTP
 
 ---
 
-## 🟣 Experience
+### 🚀 ShaktiTrace — UPI Fraud Detection System
 
-**Software Engineer** · Company Name
-`Jan 2024 — Present`
+A fraud-detection project focused on identifying potentially suspicious UPI transactions.
 
-Contributing to core platform architecture for a product serving enterprise clients at scale.
+**Technologies:**
 
-- Designed and shipped microservices reducing API response times by 35%
-- Led migration of monolithic service to containerized architecture
-- Mentored junior engineers on system design and code quality practices
+`Python` `Flask` `PostgreSQL` `HTML` `CSS` `JavaScript`
 
-`React` `Node.js` `AWS` `PostgreSQL` `Docker`
+**Components:**
 
-<br/>
-
-**Software Engineering Intern** · Company Name
-`May 2023 — Aug 2023`
-
-Built internal tooling to automate data validation workflows for the analytics team.
-
-- Developed a validation pipeline cutting manual QA time by 50%
-- Collaborated cross-functionally with product and data science teams
-
-`Python` `FastAPI` `Pandas` `SQL`
+* Flask backend
+* PostgreSQL database
+* Transaction data processing
+* Fraud detection workflow
+* Web-based interface
 
 ---
 
-## 🟣 Achievements
+### 🚀 Cooperation-Based Travel Platform
+
+A platform designed to connect people travelling along similar routes so they can cooperate during their journeys.
+
+**Technologies:**
+
+`React Native` `FastAPI` `PostgreSQL`
+
+**Concept:**
+
+* Find people travelling in the same direction
+* SafeWalk for travelling or walking together
+* Mutual acceptance between users
+* Public meeting points
+* OTP/QR-based confirmation
+* Emergency and reporting features
+* Reduce unnecessary individual trips
+
+---
+
+### 🚀 Interactive Online Learning Platform
+
+A web-based learning platform developed using PHP and MySQL.
+
+**Technologies:**
+
+`PHP` `HTML` `CSS` `JavaScript` `MySQL` `MariaDB`
+
+---
+
+### 🚀 Automated Grading & Certificate Generator
+
+An automation system for grading and certificate generation.
+
+**Technologies:**
+
+`Google Apps Script` `Google Sheets` `TCPDF` `jsPDF` `html2canvas`
+
+---
+
+## 🟣 Areas I'm Exploring
+
+* 🤖 Artificial Intelligence & Machine Learning
+* 👁️ Computer Vision
+* 🌐 Full Stack Development
+* ⚙️ Backend Development
+* 🗄️ Database Systems
+* ☁️ Cloud Computing
+* 🐳 Docker & DevOps
+* 🔐 Cybersecurity
+* 📱 React Native
+* 🧠 Data Structures & Algorithms
+* 🏗️ System Design
+
+---
+
+## 🟣 Current Focus
+
+```yaml
+currently_learning:
+  - Data Structures & Algorithms
+  - Advanced Git & GitHub
+  - Backend Development
+  - FastAPI
+  - React Native
+  - PostgreSQL
+  - AWS
+  - System Design
+
+currently_building:
+  - Full Stack Applications
+  - AI/ML Projects
+  - Computer Vision Projects
+  - Hackathon Projects
+
+goal:
+  - Become a great software engineer
+  - Build useful real-world applications
+  - Contribute to open-source projects
+```
+
+---
+
+## 🟣 Technical Interests
 
 <div align="center">
 
-| Recognition | Details |
-|---|---|
-| 🏆 Hackathon Winner | 1st Place, National-Level Hackathon 2024 |
-| 🌟 Open Source | Top Contributor — [Project Name] |
-| 📜 Research Publication | Co-authored paper on applied ML, IEEE Conference 2024 |
-| 🎓 Academic Excellence | Dean's List, 4 consecutive semesters |
+| Area           | Technologies                                |
+| -------------- | ------------------------------------------- |
+| 💻 Programming | Java, Python, JavaScript, PHP, C/C++        |
+| 🌐 Web         | HTML, CSS, JavaScript, React                |
+| ⚙️ Backend     | Node.js, Express.js, FastAPI, Flask, PHP    |
+| 🗄️ Database   | PostgreSQL, MySQL, MariaDB, SQLite, MongoDB |
+| 🤖 AI/ML       | Machine Learning, Computer Vision, OpenCV   |
+| 📱 Mobile      | React Native                                |
+| ☁️ Cloud       | AWS                                         |
+| 🛠️ Tools      | Git, GitHub, VS Code, IntelliJ IDEA, Linux  |
+| 🐳 DevOps      | Docker, Linux                               |
 
 </div>
 
 ---
 
-## 🟣 Certifications
+## 🟣 Hackathons & Technical Activities
 
-**AWS**
-![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![AWS Certified Developer](https://img.shields.io/badge/AWS%20Certified-Developer%20Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+I actively participate in technical activities, hackathons, workshops, and development projects to gain practical experience.
 
-**Oracle**
-![Oracle Certified](https://img.shields.io/badge/Oracle%20Certified-Java%20Programmer-F80000?style=flat-square&logo=oracle&logoColor=white)
+### 🏆 Hackathons
 
-**NPTEL**
-![NPTEL](https://img.shields.io/badge/NPTEL-Machine%20Learning-1B6EC2?style=flat-square&logo=googlescholar&logoColor=white)
+I enjoy building solutions under time constraints, working with teammates, learning new technologies, and turning ideas into working prototypes.
 
-**Cisco**
-![Cisco](https://img.shields.io/badge/Cisco-Networking%20Basics-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+### 👨‍💻 Technical Communities
 
----
+Interested in contributing to technical communities and helping organize activities such as:
 
-## 🟣 Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-500%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/manassdev28)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Active-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/manassdev28)
-[![HackerRank](https://img.shields.io/badge/HackerRank-5%20Star-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/manassdev28)
-[![CodeChef](https://img.shields.io/badge/CodeChef-4%20Star-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/manassdev28)
-
-</div>
+* Hackathons
+* Workshops
+* Technical competitions
+* Developer events
+* Learning sessions
 
 ---
 
@@ -216,7 +284,10 @@ Built internal tooling to automate data validation workflows for the analytics t
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=manassdev28&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" width="49%"/>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=manassdev28&theme=tokyonight&hide_border=true&background=0d1117&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA" width="49%"/>
+
+<br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manassdev28&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" width="49%"/>
 
@@ -254,43 +325,27 @@ Built internal tooling to automate data validation workflows for the analytics t
 
 ---
 
-## 🟣 Current Focus
-
-```yaml
-current_focus:
-  learning:
-    - Advanced distributed systems design
-    - LLM fine-tuning and agentic architectures
-  building:
-    - AI-powered developer tooling
-    - Scalable backend infrastructure
-  exploring:
-    - Rust for systems programming
-    - Vector databases and RAG pipelines
-  open_to:
-    - Full-time Software/AI Engineering roles
-    - Open-source collaboration
-    - Technical writing & mentorship
-```
-
----
-
 ## 🟣 Connect With Me
 
 <div align="center">
 
-<a href="mailto:manassdev28@gmail.com"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/manassdev28"><img src="https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://your-portfolio.dev"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:manassdev28@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/manassdev28">
+<img src="https://img.shields.io/badge/GitHub-5B21B6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-*"Code is the closest thing we have to magic — write it with intention."*
+### 💜 Learn. Build. Experiment. Repeat.
+
+*"The best way to learn technology is to build with it."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
